@@ -1,0 +1,48 @@
+0000000000000000000000000000000000000000 ae06c5051290c6220ce4d74e2edee4c4ac869975 sarthakvaswani <svas0000@gmai.com> 1738238439 +0530	clone: from https://github.com/SarthakVaswani/TaskAppAi.git
+ae06c5051290c6220ce4d74e2edee4c4ac869975 ca0b1874174586c62766b56728c27b91c9c38c90 sarthakvaswani <svas0000@gmai.com> 1738239030 +0530	commit: Release v1.1
+ca0b1874174586c62766b56728c27b91c9c38c90 105edca18b9757179c2f675323a8efb594e03af2 sarthakvaswani <svas0000@gmai.com> 1738239150 +0530	checkout: moving from master to TaskAppAI
+105edca18b9757179c2f675323a8efb594e03af2 5fb88a7c3b1751036ef40ece9790f85cddde03b5 sarthakvaswani <svas0000@gmai.com> 1738239171 +0530	commit: Release v1.1
+5fb88a7c3b1751036ef40ece9790f85cddde03b5 dde2e415046d932e3f9c11e117540a6603ca87c0 sarthakvaswani <svas0000@gmai.com> 1738239202 +0530	commit: Release v1.1
+dde2e415046d932e3f9c11e117540a6603ca87c0 105edca18b9757179c2f675323a8efb594e03af2 sarthakvaswani <svas0000@gmai.com> 1738239235 +0530	rebase (start): checkout 105edca18b9757179c2f675323a8efb594e03af2
+105edca18b9757179c2f675323a8efb594e03af2 5fb88a7c3b1751036ef40ece9790f85cddde03b5 sarthakvaswani <svas0000@gmai.com> 1738239235 +0530	rebase: fast-forward
+5fb88a7c3b1751036ef40ece9790f85cddde03b5 076191593a77b728372dbc14a217f2a17b1002b0 sarthakvaswani <svas0000@gmai.com> 1738239235 +0530	rebase (reword): Release v1.1
+076191593a77b728372dbc14a217f2a17b1002b0 2f80ca80eecab010f9d049da30e51a3c7c6a9a1a sarthakvaswani <svas0000@gmai.com> 1738239235 +0530	rebase (fixup): Release v1.1
+2f80ca80eecab010f9d049da30e51a3c7c6a9a1a 2f80ca80eecab010f9d049da30e51a3c7c6a9a1a sarthakvaswani <svas0000@gmai.com> 1738239235 +0530	rebase (finish): returning to refs/heads/TaskAppAI
+2f80ca80eecab010f9d049da30e51a3c7c6a9a1a 0a43f93882128d6a952a425309e68e72220b4093 sarthakvaswani <svas0000@gmai.com> 1738240096 +0530	commit: Release v1.1
+0a43f93882128d6a952a425309e68e72220b4093 105edca18b9757179c2f675323a8efb594e03af2 sarthakvaswani <svas0000@gmai.com> 1738240101 +0530	rebase (start): checkout 105edca18b9757179c2f675323a8efb594e03af2
+105edca18b9757179c2f675323a8efb594e03af2 2f80ca80eecab010f9d049da30e51a3c7c6a9a1a sarthakvaswani <svas0000@gmai.com> 1738240101 +0530	rebase: fast-forward
+2f80ca80eecab010f9d049da30e51a3c7c6a9a1a 0b101db968075154af5678337a5865833eb30ae3 sarthakvaswani <svas0000@gmai.com> 1738240101 +0530	rebase (reword): Release v1.1
+0b101db968075154af5678337a5865833eb30ae3 fe08e550d3dec9b8aba29120e4db84fc1c697861 sarthakvaswani <svas0000@gmai.com> 1738240102 +0530	rebase (fixup): Release v1.1
+fe08e550d3dec9b8aba29120e4db84fc1c697861 fe08e550d3dec9b8aba29120e4db84fc1c697861 sarthakvaswani <svas0000@gmai.com> 1738240102 +0530	rebase (finish): returning to refs/heads/TaskAppAI
+fe08e550d3dec9b8aba29120e4db84fc1c697861 181ebede54c4eb7eda6765c9e328cc1b8ebeb4e3 sarthakvaswani <svas0000@gmai.com> 1738240854 +0530	pull --no-stat -v --progress origin TaskAppAI: Fast-forward
+181ebede54c4eb7eda6765c9e328cc1b8ebeb4e3 2623e9bee1f57e94a633570e8cccca184fa8c596 sarthakvaswani <svas0000@gmai.com> 1738256759 +0530	commit: Release v2.0
+2623e9bee1f57e94a633570e8cccca184fa8c596 f51026e113919dd2c7b42db81a808233b20af835 sarthakvaswani <svas0000@gmai.com> 1738258530 +0530	pull --no-stat -v --progress origin TaskAppAI: Fast-forward
+f51026e113919dd2c7b42db81a808233b20af835 27d917bfead082e85ff64b90c0d451f8ff7442d9 sarthakvaswani <svas0000@gmai.com> 1738259873 +0530	commit: Release v2.0
+27d917bfead082e85ff64b90c0d451f8ff7442d9 181ebede54c4eb7eda6765c9e328cc1b8ebeb4e3 sarthakvaswani <svas0000@gmai.com> 1738259908 +0530	rebase (start): checkout 181ebede54c4eb7eda6765c9e328cc1b8ebeb4e3
+181ebede54c4eb7eda6765c9e328cc1b8ebeb4e3 2623e9bee1f57e94a633570e8cccca184fa8c596 sarthakvaswani <svas0000@gmai.com> 1738259908 +0530	rebase: fast-forward
+2623e9bee1f57e94a633570e8cccca184fa8c596 74be34faeaacdd7fea020790feeb4c4277ae83fd sarthakvaswani <svas0000@gmai.com> 1738259908 +0530	rebase (reword): Release v2.0
+74be34faeaacdd7fea020790feeb4c4277ae83fd 3973434c18453b9ea6e14ffd83dc8d0600e50d01 sarthakvaswani <svas0000@gmai.com> 1738259909 +0530	rebase (fixup): Release v2.0
+3973434c18453b9ea6e14ffd83dc8d0600e50d01 119b2db5905baeaa08f0b320fd59ee9189c80b07 sarthakvaswani <svas0000@gmai.com> 1738259909 +0530	rebase (pick): Update README.md
+119b2db5905baeaa08f0b320fd59ee9189c80b07 17fdd4a7a79992e0bb7f0b37f0d59b27192e48bb sarthakvaswani <svas0000@gmai.com> 1738259909 +0530	rebase (pick): Update README.md
+17fdd4a7a79992e0bb7f0b37f0d59b27192e48bb 17fdd4a7a79992e0bb7f0b37f0d59b27192e48bb sarthakvaswani <svas0000@gmai.com> 1738259909 +0530	rebase (finish): returning to refs/heads/TaskAppAI
+17fdd4a7a79992e0bb7f0b37f0d59b27192e48bb fe08e550d3dec9b8aba29120e4db84fc1c697861 sarthakvaswani <svas0000@gmai.com> 1738259928 +0530	rebase (start): checkout fe08e550d3dec9b8aba29120e4db84fc1c697861
+fe08e550d3dec9b8aba29120e4db84fc1c697861 09403850b181f1bd7bc35bfb153a4a42adcca9f2 sarthakvaswani <svas0000@gmai.com> 1738259928 +0530	rebase: fast-forward
+09403850b181f1bd7bc35bfb153a4a42adcca9f2 93cc1d404681a29f176b60e6c1c889f161d7f900 sarthakvaswani <svas0000@gmai.com> 1738259928 +0530	rebase (reword): Update README.md
+93cc1d404681a29f176b60e6c1c889f161d7f900 cb3c8ced3e1fefcfadc45934eac3058801b6776f sarthakvaswani <svas0000@gmai.com> 1738259929 +0530	rebase (fixup):  This is a combination of 2 commits.
+cb3c8ced3e1fefcfadc45934eac3058801b6776f a69dfb2f43c82a2017500b33cbcf6be04d23a6c9 sarthakvaswani <svas0000@gmai.com> 1738259929 +0530	rebase (fixup):  This is a combination of 3 commits.
+a69dfb2f43c82a2017500b33cbcf6be04d23a6c9 aced039af789d1057015637f958767ab997944ea sarthakvaswani <svas0000@gmai.com> 1738259929 +0530	rebase (fixup):  This is a combination of 4 commits.
+aced039af789d1057015637f958767ab997944ea dc451fc877d15fbe9f506544c6f3f463a79a3b0f sarthakvaswani <svas0000@gmai.com> 1738259929 +0530	rebase (fixup):  This is a combination of 5 commits.
+dc451fc877d15fbe9f506544c6f3f463a79a3b0f 64f0fbdaac24d7a92bb6c5e836b8778e67f3f429 sarthakvaswani <svas0000@gmai.com> 1738259929 +0530	rebase (fixup): Update README.md
+64f0fbdaac24d7a92bb6c5e836b8778e67f3f429 dfe8137b1c4198ee7687a9aa36c9fb17aba60399 sarthakvaswani <svas0000@gmai.com> 1738259929 +0530	rebase (pick): Release v2.0
+dfe8137b1c4198ee7687a9aa36c9fb17aba60399 dfe8137b1c4198ee7687a9aa36c9fb17aba60399 sarthakvaswani <svas0000@gmai.com> 1738259929 +0530	rebase (finish): returning to refs/heads/TaskAppAI
+dfe8137b1c4198ee7687a9aa36c9fb17aba60399 ca0b1874174586c62766b56728c27b91c9c38c90 sarthakvaswani <svas0000@gmai.com> 1738262149 +0530	checkout: moving from TaskAppAI to master
+ca0b1874174586c62766b56728c27b91c9c38c90 ff885d3ca0da075a25e2c5b28637dd736f781a77 sarthakvaswani <svas0000@gmai.com> 1738262680 +0530	commit: Release v1.1
+ff885d3ca0da075a25e2c5b28637dd736f781a77 dfe8137b1c4198ee7687a9aa36c9fb17aba60399 sarthakvaswani <svas0000@gmai.com> 1738262707 +0530	checkout: moving from master to TaskAppAI
+dfe8137b1c4198ee7687a9aa36c9fb17aba60399 50d4917b86b6cbdab004f602b04de538b6921c9a sarthakvaswani <svas0000@gmai.com> 1738262821 +0530	cherry-pick: Release v1.1
+50d4917b86b6cbdab004f602b04de538b6921c9a 105edca18b9757179c2f675323a8efb594e03af2 sarthakvaswani <svas0000@gmai.com> 1738262837 +0530	rebase (start): checkout 105edca18b9757179c2f675323a8efb594e03af2
+105edca18b9757179c2f675323a8efb594e03af2 fe08e550d3dec9b8aba29120e4db84fc1c697861 sarthakvaswani <svas0000@gmai.com> 1738262837 +0530	rebase: fast-forward
+fe08e550d3dec9b8aba29120e4db84fc1c697861 1fae164ff8f0f6888b94b9fe38882016daf86a44 sarthakvaswani <svas0000@gmai.com> 1738262837 +0530	rebase (reword): Release v1.1
+1fae164ff8f0f6888b94b9fe38882016daf86a44 5dcca203b01e97d86ccaf66679ad4f9086ea8c84 sarthakvaswani <svas0000@gmai.com> 1738262838 +0530	rebase (fixup): Release v1.1
+5dcca203b01e97d86ccaf66679ad4f9086ea8c84 3c34bdd51f1c22db226dd856ed6b383e1f9d8ebd sarthakvaswani <svas0000@gmai.com> 1738262838 +0530	rebase (pick): Update README.md
+3c34bdd51f1c22db226dd856ed6b383e1f9d8ebd 6e4c9c104eb838a6bc8b03c4e1f0086310ea610e sarthakvaswani <svas0000@gmai.com> 1738262838 +0530	rebase (pick): Release v2.0
+6e4c9c104eb838a6bc8b03c4e1f0086310ea610e 6e4c9c104eb838a6bc8b03c4e1f0086310ea610e sarthakvaswani <svas0000@gmai.com> 1738262838 +0530	rebase (finish): returning to refs/heads/TaskAppAI
