@@ -1,4 +1,4 @@
-package com.example.taskappai.domain.repository
+package com.example.taskappai.data.repository
 
 import com.example.taskappai.data.local.TaskDao
 import com.example.taskappai.data.local.TaskEntity
@@ -6,6 +6,7 @@ import com.example.taskappai.data.remote.api.DeepSeekRepository
 import com.example.taskappai.domain.model.ExtractedTaskDetails
 import com.example.taskappai.domain.model.Priority
 import com.example.taskappai.domain.model.Task
+import com.example.taskappai.domain.repository.TaskRepository
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.map
 

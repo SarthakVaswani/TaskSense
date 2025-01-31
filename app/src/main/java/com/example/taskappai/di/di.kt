@@ -5,7 +5,7 @@ import com.example.taskappai.data.local.TaskDB
 import com.example.taskappai.data.remote.api.DeepSeekRepository
 import com.example.taskappai.data.remote.api.DeepSeekService
 import com.example.taskappai.domain.repository.TaskRepository
-import com.example.taskappai.domain.repository.TaskRepositoryImpl
+import com.example.taskappai.data.repository.TaskRepositoryImpl
 import com.example.taskappai.presentation.screen.TaskViewModel
 import com.example.taskappai.util.Constants
 import okhttp3.OkHttpClient
