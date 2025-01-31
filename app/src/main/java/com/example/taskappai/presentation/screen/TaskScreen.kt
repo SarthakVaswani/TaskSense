@@ -12,10 +12,12 @@ import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.navigationBarsPadding
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Add
 import androidx.compose.material3.FloatingActionButton
 import androidx.compose.material3.Icon
+import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
@@ -51,11 +53,11 @@ fun TaskScreen(modifier: Modifier = Modifier, viewModel: TaskViewModel) {
     val showPromptSheet by viewModel.showPromptSheet.collectAsState()
     val isProcessingPrompt by viewModel.isProcessingPrompt.collectAsState()
 
-    Box(modifier = modifier.fillMaxSize()) {
+    Box(modifier = modifier.fillMaxSize(),) {
         Column(
             modifier = Modifier
                 .fillMaxSize()
-                .padding(top = 16.dp)
+                .padding(top = 16.dp),
         ) {
             PriorityFilter(
                 selectedPriority = selectedPriority,
@@ -107,10 +109,11 @@ fun TaskScreen(modifier: Modifier = Modifier, viewModel: TaskViewModel) {
                 onClick = { viewModel.showPromptBottomSheet() },
                 modifier = Modifier
                     .padding(16.dp)
-                    .align(Alignment.BottomEnd)
+                    .navigationBarsPadding()
+                    .padding(bottom = 16.dp)
                     .scale(fabScale),
-                containerColor = Color.Black,
-                contentColor = Color.White
+                containerColor = MaterialTheme.colorScheme.onSurface,
+                contentColor =  MaterialTheme.colorScheme.surfaceVariant,
             ) {
                 Icon(Icons.Default.Add, contentDescription = "Add Task")
             }
